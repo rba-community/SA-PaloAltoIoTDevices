@@ -1,17 +1,15 @@
 # Asset Database Mapping
 
-# TODO - DELETE THIS LINE - Example
-
 The following table describes how this add-on maps to the Asset Database.
 
-> reference [Format an asset or identity in Splunk ES<small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/ES/latest/Admin/Formatassetoridentitylist#Asset_lookup_header){ target="blank" }
+> reference [Format an asset or identity in Splunk ES <small>:icon-link-external:</small>](https://docs.splunk.com/Documentation/ES/latest/Admin/Formatassetoridentitylist#Asset_lookup_header){ target="blank" }
 
-ES Asset lookup field | [#TODO InsightVM TA Fields<small>:icon-link-external:</small>](https://splunkbase.splunk.com/app/#TODO){ target="blank" } | Example value | Multi-value allowed
+ES Asset lookup field | Field name | Example value | Multi-value allowed
 --- | --- | --- | ---
 ip | `ip` | 10.15.23.8 | true
 mac | `mac` | 61:se:e3:1s:7r:38 | true
-nt_host | `host_name` | dev-server01 | false
-dns | `hostname` | dev-server01.example.com | true
+nt_host | `nt_host` | dev-server01 | false
+dns | n/a | `not mapped` | n/a
 owner | n/a | `not mapped` | n/a
 priority | see [Configure Priority](../configure/priority.md) | medium | false
 lat | n/a | `not mapped` | n/a
