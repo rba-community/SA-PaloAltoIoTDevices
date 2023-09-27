@@ -10,4 +10,4 @@ Default priority field definition
 ```python
 priority=lower(risk_level)
 ```
-The risk_level field is a default field provided by the Palo Alto IoT data feed - it represents how "risky" the IoT Asset is considered.
+The `risk_level` field is a default field provided by the Palo Alto IoT data feed - it represents how "risky" the IoT Asset is considered.
