@@ -17,7 +17,7 @@ Full documentation can be found at [https://pa-iot.rba.community](https://pa-iot
 
 ## Disclaimer
 
-> *This Splunk Supporting Add-on is __not__ affiliated with [__Palo Alto Networks__][palo]{ target="blank" } and is not sponsored or sanctioned by the Palo Alto Networks team. Please visit [https://www.paloaltonetworks.com/][palo] for more information about Palo Alto Networks.*
+> *This Splunk Supporting Add-on is __not__ affiliated with [__Palo Alto Networks__][palo] and is not sponsored or sanctioned by the Palo Alto Networks team. Please visit [https://www.paloaltonetworks.com/][palo] for more information about Palo Alto Networks.*
 
 ## About
 
