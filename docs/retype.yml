@@ -1,29 +1,27 @@
-# DELETE THIS LINE: More info at https://retype.com/
 input: .
 output: .retype
-url: #TODO
+url: pa-iot.rba.community
 branding:
-  title: #TODO
+  title: SA-PaloAltoIoTDevices
   label: v1.0.0
-  logo: static/#TODO.svg
   colors:
     label:
       text: "#fff"
-      background: "#e85e26"
+      background: "#E14F28"
 links:
 - text: Splunkbase
   link: https://splunkbase.splunk.com/#TODO
   target: blank
   icon: apps
 - text: GitHub
-  link: https://github.com/rba-community/#TODO/releases
+  link: https://github.com/rba-community/SA-PaloAltoIoTDevices/releases
   target: blank
   icon: mark-github
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved.\nMade with :icon-heart-fill: by [#TODO](#TODO){ target=blank }"
+  copyright: "&copy; Copyright {{ year }}. All rights reserved.\nMade with :icon-heart-fill: by [ZachTheSplunker](https://www.linkedin.com/in/zachthesplunker/){ target=blank }"
   links: 
-    - text: Connect with #TODO on LinkedIn
-      link: https://www.linkedin.com/in/#TODO/
+    - text: Connect with the Author, Dennis Morton, on LinkedIn
+      link: https://www.linkedin.com/in/dennis-morton-627632/
       target: blank
 markdown:
   lineBreaks: hard

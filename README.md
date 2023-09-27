@@ -29,6 +29,7 @@ SA-PaloAltoIoTDevices | 1.0.0 - [Splunkbase](https://splunkbase.splunk.com/app/#
 Splunk Enterprise Security Version (Required) | [7.x \| 6.x](https://splunkbase.splunk.com/app/263)
 Palo Alto Networks Technology Add-On (Required) | [>=8.1.0](https://splunkbase.splunk.com/app/2757)
 Add-on has a web UI | No, this add-on does not contain views.
+Author | [Dennis Morton](https://www.linkedin.com/in/dennis-morton-627632/)
 
 ## Issues or Feature Requests
 
