@@ -8,6 +8,7 @@
 [![Splunk ES Compatibility](https://img.shields.io/badge/Splunk%20ES%20Compatibility-7.x%20|%206.x-success)](https://splunkbase.splunk.com/app/263)
 [![Palo Alto TA Compatibility](https://img.shields.io/badge/Palo%20Alto%20TA%20Compatibility->=8.1.0-success)](https://splunkbase.splunk.com/app/2757)
 ![Splunk Cloud Compatibility](https://img.shields.io/badge/Splunk%20Cloud%20Ready-Victoria%20|%20Classic-informational?logo=splunk)
+[![Author LinkedIn](https://img.shields.io/badge/Author-Dennis%20Morton-blue?logo=linkedin)](https://www.linkedin.com/in/dennis-morton-627632/)
 
 This supporting add-on comes with prebuilt content for Palo Alto IoT data to be easily used with Splunk Enterprise Security's Asset database.
 
