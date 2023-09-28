@@ -8,7 +8,7 @@ body:
     attributes:
       label: Description
       description: >-
-        Please describe the issue found in the [documentation](https://pa-iot.rba.community/) or an improvement that can be made.
+        Please describe the issue found in the [documentation](https://pan-iot.rba.community/) or an improvement that can be made.
     validations:
       required: true
 
@@ -17,7 +17,7 @@ body:
     attributes:
       label: Related links
       description: >-
-        Please list all links to the sections of [our documentation](https://pa-iot.rba.community/) that are impacted by the issue you described above.
+        Please list all links to the sections of [our documentation](https://pan-iot.rba.community/) that are impacted by the issue you described above.
     validations:
       required: true
 

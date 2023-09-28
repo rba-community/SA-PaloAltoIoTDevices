@@ -1,7 +1,7 @@
 # SA-PaloAltoIoTDevices for Enterprise Security
 
 ![GitHub](https://img.shields.io/github/license/rba-community/SA-PaloAltoIoTDevices)
-[![Docs](https://github.com/rba-community/SA-PaloAltoIoTDevices/actions/workflows/docs.yml/badge.svg)](https://pa-iot.rba.community/)
+[![Docs](https://github.com/rba-community/SA-PaloAltoIoTDevices/actions/workflows/docs.yml/badge.svg)](https://pan-iot.rba.community/)
 ![Appinspect](https://github.com/rba-community/SA-PaloAltoIoTDevices/actions/workflows/appinspect.yml/badge.svg)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/rba-community/SA-PaloAltoIoTDevices)
 [![Splunkbase App](https://img.shields.io/badge/Splunkbase-SA--PaloAltoIoTDevices-blue)](https://splunkbase.splunk.com/app/#TODO)
@@ -16,7 +16,7 @@ This supporting add-on comes with prebuilt content for Palo Alto IoT data to be 
 
 ## Documentation
 
-Full documentation can be found at [https://pa-iot.rba.community](https://pa-iot.rba.community).
+Full documentation can be found at [https://pan-iot.rba.community](https://pan-iot.rba.community).
 
 ## Disclaimer
 

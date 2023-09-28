@@ -19,7 +19,7 @@ body:
     attributes:
       label: Related links
       description: >-
-        (optional) Please list all links to open and closed [issues](https://github.com/rba-community/SA-PaloAltoIoTDevices/issues) or to [documentation sections](https://pa-iot.rba.community/)
+        (optional) Please list all links to open and closed [issues](https://github.com/rba-community/SA-PaloAltoIoTDevices/issues) or to [documentation sections](https://pan-iot.rba.community/)
         that are relevant to your idea.
       value: |-
         - [Feature Request](https://github.com/rba-community/SA-PaloAltoIoTDevices/issues)

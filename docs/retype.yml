@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: pa-iot.rba.community
+url: pan-iot.rba.community
 branding:
   title: SA-PaloAltoIoTDevices
   label: v1.0.0

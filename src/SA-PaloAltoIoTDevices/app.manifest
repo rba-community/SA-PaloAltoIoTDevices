@@ -38,7 +38,7 @@
     },
     "releaseNotes": {
       "name": "README",
-      "uri": "https://pa-iot.rba.community/releases/"
+      "uri": "https://pan-iot.rba.community/releases/"
     }
   },
   "dependencies": {

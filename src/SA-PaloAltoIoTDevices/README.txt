@@ -1,1 +1,1 @@
-Documentation can be found at https://pa-iot.rba.community.
+Documentation can be found at https://pan-iot.rba.community.

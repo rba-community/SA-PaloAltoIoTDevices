@@ -20,7 +20,7 @@ body:
       label: Related links
       description: >-
         Please list all links to the sections of
-        [the documentation](https://pa-iot.rba.community/) that
+        [the documentation](https://pan-iot.rba.community/) that
         are relevant to the bug in order to show that you have consulted and
         thoroughly read it. Additionally, list links to possibly related open
         and closed [issues](https://github.com/rba-community/SA-PaloAltoIoTDevices/issues).
