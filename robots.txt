@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pa-iot.rba.community/sitemap.xml.gz
+Sitemap: https://pan-iot.rba.community/sitemap.xml.gz
