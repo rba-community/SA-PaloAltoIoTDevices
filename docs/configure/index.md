@@ -11,5 +11,6 @@ Each field can be customized to fit your environment. The following fields shoul
 !!!success It is recommended to clone the default search before making changes (see [Clone Saved Search](clone-search.md)).
 !!!
 
+- [Update Profile Type](profile_type.md)  <small>(recommended)</small>
 - [Update Priority](priority.md) <small>(recommended)</small>
 - [Update Category](category.md)
